@@ -26,10 +26,10 @@ Thank you for considering a contribution. This list covers **US financial-servic
 
 ## Style
 
-- British English in the description copy.
+- American English in the description copy.
 - No emojis.
 - Avoid banned vocabulary (delve, leverage, harness, robust, seamless, holistic, transformative, paradigm). Plain language wins.
-- Flag superseded, sunset, or retired guidance and programmes explicitly (as the FFIEC Cybersecurity Assessment Tool and SR 11-7 entries do) rather than presenting them as current.
+- Flag superseded, sunset, or retired guidance and programs explicitly (as the FFIEC Cybersecurity Assessment Tool and SR 11-7 entries do) rather than presenting them as current.
 
 ## Quality bar
 
@@ -41,6 +41,6 @@ Thank you for considering a contribution. This list covers **US financial-servic
 
 A maintainer reviews PRs within seven days. Most PRs that meet the criteria above land within two weeks.
 
-## Licence
+## License
 
 By contributing you agree your contribution is released under CC0 1.0 Universal.
