@@ -195,6 +195,9 @@ The four agencies below layer safety-and-soundness and consumer-protection super
 - [Healthcare Compliance](https://github.com/garynair/healthcare-compliance) - A companion curated list covering HIPAA, HITECH, and HITRUST CSF, the healthcare-sector equivalent of this list.
 - [IT Audit & Controls](https://github.com/garynair/it-audit-controls) - A companion curated list covering COBIT, COSO, and ITGC/ITAC — the source for anything SOX-, ITGC-, or COBIT-related that is out of scope here.
 - [Security Frameworks](https://github.com/garynair/security-frameworks) - A companion curated list covering NIST CSF, ISO/IEC 27001, and PCI-DSS — the source for the general-purpose control framework most institutions layer underneath the sector-specific obligations above.
+- [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register, heat maps, and treatment planning that unresolved findings from this list feed into.
+- [Federal Compliance](https://github.com/garynair/federal-compliance) - A companion curated list covering FedRAMP, CMMC, and NIST SP 800-53/171 — the federal-sector-specific controls and SSP/POA&M process related to this list.
+- [Privacy Compliance](https://github.com/garynair/privacy) - A companion curated list covering GDPR, CCPA/CPRA, and the US state privacy patchwork — the privacy-specific obligations that run alongside these requirements.
 
 ---
 
