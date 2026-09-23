@@ -23,7 +23,7 @@ Contributions welcome.
 - [NYDFS 500](#nydfs-500)
 - [SEC and FINRA](#sec-and-finra)
 - [BSA, AML, and Sanctions](#bsa-aml-and-sanctions)
-- [Model Risk Management (SR 11-7)](#model-risk-management-sr-11-7)
+- [Model Risk Management: SR 26-2 (SR 11-7)](#model-risk-management-sr-26-2-sr-11-7)
 - [Prudential Regulators](#prudential-regulators)
 - [Dodd-Frank Act and the Volcker Rule](#dodd-frank-act-and-the-volcker-rule)
 - [Community Reinvestment Act (CRA)](#community-reinvestment-act-cra)
@@ -99,7 +99,7 @@ In practice, most financial-services compliance programs are built in two layers
 - [FinCEN Anti-Money Laundering Programs and Records](https://www.fincen.gov/resources/statutes-regulations/guidance/anti-money-laundering-programs-and-records-english) - FinCEN's guidance on the AML Program Rule's core requirements: written policies, a designated compliance officer, training, and independent testing.
 - [OFAC Specially Designated Nationals and Blocked Persons List (SDN List)](https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists) - The primary sanctions list financial institutions must screen against, updated on a rolling basis with no fixed schedule.
 
-## Model Risk Management (SR 11-7)
+## Model Risk Management: SR 26-2 (SR 11-7)
 
 **Applicability:** supervisory guidance, not a binding rule, for banking organizations supervised by the Federal Reserve, OCC, or FDIC that use quantitative models in decision-making; proportionate to an institution's size and model risk profile. SR 11-7 itself was superseded in April 2026 — see below.
 
