@@ -1,3 +1,5 @@
+![FinServ Compliance](docs/banner.png)
+
 # FinServ Compliance
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
